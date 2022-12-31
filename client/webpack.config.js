@@ -49,7 +49,7 @@ module.exports = () => {
     ],
 
     module: {
-      //CSS loaders and Babel loaders 
+      //CSS loaders and Babel loaders to webpack
       rules: [
         {
           test: /\.css$/i,
